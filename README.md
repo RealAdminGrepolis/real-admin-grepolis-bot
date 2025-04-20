@@ -1,6 +1,7 @@
-# RealAdmin – Grepolis Automation Script
+# RealAdmin – Grepolis Automation Script <img src="https://real-admin.com/images/logo.png" alt="RealAdmin Logo" width="30" height="30">
 
-![RealAdmin Logo](https://real-admin.com/logo.png)
+
+
 
 **RealAdmin** is a powerful automation tool for [Grepolis](https://en.grepolis.com/), designed to handle routine tasks so you can focus on strategy and conquest.
 
@@ -30,6 +31,9 @@
 2. **Register and Request Free Trial**:
    - Visit [real-admin.com](https://real-admin.com)
    - Request Free Trial and install the script
-  
 
-Tutorial: https://youtu.be/OX2iAgqxOBg?si=rcoVCHbiIywKco6T
+---
+
+## 📺 Tutorial
+
+[![RealAdmin Showcase](https://img.youtube.com/vi/OX2iAgqxOBg/0.jpg)](https://www.youtube.com/watch?v=OX2iAgqxOBg)
