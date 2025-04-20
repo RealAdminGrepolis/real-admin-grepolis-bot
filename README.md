@@ -4,7 +4,7 @@
 
 
 **RealAdmin** is a powerful automation tool for [Grepolis](https://en.grepolis.com/), designed to handle routine tasks so you can focus on strategy and conquest.
-
+Try it for free: https://real-admin.com
 ---
 
 ## 🚀 Features
